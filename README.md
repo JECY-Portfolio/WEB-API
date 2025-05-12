@@ -36,7 +36,9 @@ ________________________________________________________________________________
 Google Maps leverages the Google Maps Platform APIs, including:
 
 •	Maps JavaScript API: Used for displaying interactive maps on websites and apps. It allows developers to embed fully functional maps that users can interact with by zooming, panning, and marking locations.
+
 •	Directions API: This API calculates travel routes between two or more locations and provides detailed directions. It accounts for real-time traffic conditions and offers alternative routes.
+
 •	Geolocation API: Used to determine the physical location of devices based on GPS, Wi-Fi, or other location-tracking technologies. It enables apps to provide location-based services like finding nearby places or tracking a user's movement.
 
 These APIs are heavily used in mobile apps and websites for various location-based services, from navigation to local search.
