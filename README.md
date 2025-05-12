@@ -27,7 +27,7 @@ In November 2024, Spotify updated its Web API, restricting access to certain end
 
 ______________________________________________________________________________________________________________________________________________________________________________________________________________
 # GOOGLE MAPS
-
+______________________________________________________________________________________________________________________________________________________________________________________________________________
 Google Maps leverages the Google Maps Platform APIs, including:
 
 •	Maps JavaScript API: Used for displaying interactive maps on websites and apps. It allows developers to embed fully functional maps that users can interact with by zooming, panning, and marking locations.
@@ -40,12 +40,12 @@ ________________________________________________________________________________
 
 # TRUECALLER
  
-Truecaller is a mobile application that offers caller identification, spam blocking, and contact management services. It leverages a vast database of phone numbers and user-contributed data to provide real-time information about incoming calls and messages.Truecaller
+Truecaller is a mobile application that offers caller identification, spam blocking, and contact management services. It leverages a vast database of phone numbers and user-contributed data to provide real-time information about incoming calls and messages.
 ______________________________________________________________________________________________________________________________________________________________________________________________________________
 APIs USED BY TRUECALLER: 
 ______________________________________________________________________________________________________________________________________________________________________________________________________________
 1.	Truecaller SDK: This SDK enables developers to integrate Truecaller’s phone number verification and user profile retrieval features into their applications. It allows for seamless user onboarding by leveraging Truecaller's existing user base for authentication without the need for OTPs. The SDK supports Android, iOS, and web platforms. (docs.truecaller.com)
-2.	Verified Business API: This API provides businesses with the ability to display their verified caller ID on users' devices, enhancing trust and reducing the chances of calls being marked as spam. It includes features like generating access tokens and setting up webhooks for real-time updates. docs.truecaller.com
+2.	Verified Business API: This API provides businesses with the ability to display their verified caller ID on users' devices, enhancing trust and reducing the chances of calls being marked as spam. It includes features like generating access tokens and setting up webhooks for real-time updates. 
 3.	TruecallerJS: An open-source JavaScript library that facilitates phone number lookups using the Truecaller API. It simplifies the process of retrieving phone number details in Node.js, JavaScript, and TypeScript applications. 
 4.	TruecallerPy: A Python package that offers functionalities to interact with the Truecaller API. It supports operations like login, OTP verification, and phone number search, making it suitable for backend integrations. 
 ______________________________________________________________________________________________________________________________________________________________________________________________________________
