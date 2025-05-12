@@ -10,16 +10,17 @@ A weather app uses a Web API to fetch real-time weather data from a remote serve
 2) GOOGLE MAPS
 3) TRUECALLER
 ______________________________________________________________________________________________________________________________________________________________________________________________________________
-# **SPOTIFY: **
+# SPOTIFY
 Spotify is a leading music streaming platform offering access to a vast library of songs, podcasts, and playlists. It provides both free and premium subscription models, allowing users to stream music across various devices.
 
-**KEY APIs USED BY SPOTIFY: **
-
+KEY APIs USED BY SPOTIFY:
+______________________________________________________________________________________________________________________________________________________________________________________________________________
 1.	Spotify Web API: This RESTful API allows developers to access Spotify's music catalog, manage user libraries, and control playback. It provides endpoints to retrieve information about tracks, albums, artists, and playlists, as well as to manage user data and playback sessions. 
 2.	Web Playback SDK: This JavaScript library enables developers to create a Spotify Connect device in the browser, allowing for seamless playback of Spotify content within web applications. It supports features like track control, volume adjustment, and metadata retrieval. Spotify for Developers
 3.	Ads API: The Ads API allows Spotify to manage and report on advertising campaigns within the platform. It provides endpoints for creating and managing campaigns, as well as retrieving performance metrics. Spotify for Developers
-   
-**RECENT CHANGES: **
+______________________________________________________________________________________________________________________________________________________________________________________________________________
+RECENT CHANGES: 
+______________________________________________________________________________________________________________________________________________________________________________________________________________
 
 In November 2024, Spotify updated its Web API, restricting access to certain endpoints for new applications and those in development. These changes include the deprecation of features like audio features, audio analysis, and recommendations, aiming to enhance platform security and control over data usage.
 
