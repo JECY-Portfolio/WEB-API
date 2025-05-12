@@ -10,7 +10,8 @@ A weather app uses a Web API to fetch real-time weather data from a remote serve
 2) GOOGLE MAPS
 3) TRUECALLER
 
-                                                                 # SPOTIFY
+# SPOTIFY
+
 Spotify is a leading music streaming platform offering access to a vast library of songs, podcasts, and playlists. It provides both free and premium subscription models, allowing users to stream music across various devices.
 ______________________________________________________________________________________________________________________________________________________________________________________________________________
 KEY APIs USED BY SPOTIFY:
