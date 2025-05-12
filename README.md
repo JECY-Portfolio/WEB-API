@@ -28,7 +28,7 @@ ________________________________________________________________________________
 # GOOGLE MAPS
 
 Google Maps leverages the Google Maps Platform APIs, including:
-______________________________________________________________________________________________________________________________________________________________________________________________________________
+
 •	Maps JavaScript API: Used for displaying interactive maps on websites and apps. It allows developers to embed fully functional maps that users can interact with by zooming, panning, and marking locations.
 •	Directions API: This API calculates travel routes between two or more locations and provides detailed directions. It accounts for real-time traffic conditions and offers alternative routes.
 •	Geolocation API: Used to determine the physical location of devices based on GPS, Wi-Fi, or other location-tracking technologies. It enables apps to provide location-based services like finding nearby places or tracking a user's movement.
@@ -36,6 +36,7 @@ ________________________________________________________________________________
 These APIs are heavily used in mobile apps and websites for various location-based services, from navigation to local search.
 
 ______________________________________________________________________________________________________________________________________________________________________________________________________________
+
 # TRUECALLER
  
 Truecaller is a mobile application that offers caller identification, spam blocking, and contact management services. It leverages a vast database of phone numbers and user-contributed data to provide real-time information about incoming calls and messages.Truecaller
@@ -48,4 +49,6 @@ ________________________________________________________________________________
 4.	TruecallerPy: A Python package that offers functionalities to interact with the Truecaller API. It supports operations like login, OTP verification, and phone number search, making it suitable for backend integrations. 
 ______________________________________________________________________________________________________________________________________________________________________________________________________________
 RECENT CHANGES
+______________________________________________________________________________________________________________________________________________________________________________________________________________
+
 As of November 2024, Truecaller has updated its Web API, restricting access to certain endpoints for new applications and those in development. These changes include the deprecation of features like audio features, audio analysis, and recommendations, aiming to enhance platform security and control over data usage. 
